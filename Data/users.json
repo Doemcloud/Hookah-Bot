@@ -1,0 +1,12 @@
+{
+  "123456789012345678": {
+    "username": "User#1234",
+    "coins": 10,
+    "puffs": 5
+  },
+  "987654321098765432": {
+    "username": "AnotherUser#4321",
+    "coins": 15,
+    "puffs": 8
+  }
+}
